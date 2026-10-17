@@ -217,4 +217,4 @@ WinPlot is offered as a complete free version with all features and updates incl
 Start your journey with WinPlot today and unlock the full potential of your mathematical understanding! Download now and experience the difference.
 
 ---
-**Last updated:** 2026-10-17 16:15:18 UTC
+**Last updated:** 2026-10-17 19:08:55 UTC
